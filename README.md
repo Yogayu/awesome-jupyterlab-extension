@@ -1,8 +1,71 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  
+
+*generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [awesome-jupyterlab-extension *](#awesome-jupyterlab-extension-)
+  - [Table of Contents](#table-of-contents)
+  - [Version Control](#version-control)
+    - [Jupyter Git](#jupyter-git)
+    - [nbdime](#nbdime)
+    - [jupyterlab_autoversion](#jupyterlab_autoversion)
+  - [Remote Access](#remote-access)
+    - [Github Extenion](#github-extenion)
+    - [jupyterlab-google-drive](#jupyterlab-google-drive)
+    - [jupyterlab-hub](#jupyterlab-hub)
+  - [Formatting/Beautification](#formattingbeautification)
+    - [jupyterlab_code_formatter](#jupyterlab_code_formatter)
+  - [Write](#write)
+    - [jupyterlab-vim](#jupyterlab-vim)
+    - [JupyterLab LaTeX](#jupyterlab-latex)
+    - [Jupyterlab-drawio](#jupyterlab-drawio)
+    - [jupyterlab-monaco](#jupyterlab-monaco)
+    - [jupyterlab_templates](#jupyterlab_templates)
+    - [jupyterlab-go-to-definition](#jupyterlab-go-to-definition)
+    - [jupyterlab_spellchecker](#jupyterlab_spellchecker)
+    - [jupyterlab_spark](#jupyterlab_spark)
+  - [Read/Interact](#readinteract)
+    - [Jupyterlab-toc](#jupyterlab-toc)
+    - [jupyterlab-dash](#jupyterlab-dash)
+    - [jupyter-renderers](#jupyter-renderers)
+    - [jupyter-matplotlib](#jupyter-matplotlib)
+    - [jupyterlab_tensorboard](#jupyterlab_tensorboard)
+    - [jupyter-widgets / ipywidgets](#jupyter-widgets--ipywidgets)
+    - [Jupyterlab_voyager](#jupyterlab_voyager)
+    - [ipyleaflet](#ipyleaflet)
+    - [scriptedforms](#scriptedforms)
+    - [knowledgelab](#knowledgelab)
+    - [lantern](#lantern)
+    - [itk-jupyter-widgets](#itk-jupyter-widgets)
+    - [ipyp5](#ipyp5)
+  - [Database](#database)
+    - [jupyterlab-sql](#jupyterlab-sql)
+    - [jupyterlab-omnisci](#jupyterlab-omnisci)
+  - [Tools](#tools)
+    - [mwouts / jupytext](#mwouts--jupytext)
+    - [jupyterlab_email](#jupyterlab_email)
+    - [JupyterLab Top Bar](#jupyterlab-top-bar)
+    - [jupyterlab-sos](#jupyterlab-sos)
+    - [jupyterlab_commands](#jupyterlab_commands)
+  - [Theme](#theme)
+    - [jupyterlab_materialdarker](#jupyterlab_materialdarker)
+    - [jupyterlab_dracula](#jupyterlab_dracula)
+    - [Jupyter-Atom-Dark-Theme](#jupyter-atom-dark-theme)
+    - [jupyterlab_redpill_theme](#jupyterlab_redpill_theme)
+    - [@telamonian/theme-darcula](#telamoniantheme-darcula)
+    - [jupyterlab-gruvbox](#jupyterlab-gruvbox)
+    - [JupyterLab AixViPMaP theme](#jupyterlab-aixvipmap-theme)
+  - [How to Contribute](#how-to-contribute)
+  - [License](#license)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # awesome-jupyterlab-extension [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 😎 A curated list of awesome Jupyterlab extension projects.
 
-## Content
+## Table of Contents
 
 [TOC]
 

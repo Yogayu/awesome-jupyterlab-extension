@@ -1,3 +1,22 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  
+*generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [The awesome manifesto](#the-awesome-manifesto)
+  - [Only awesome is awesome](#only-awesome-is-awesome)
+  - [Awesome badge](#awesome-badge)
+  - [Awesome mentioned badge](#awesome-mentioned-badge)
+  - [Comment on why something is awesome](#comment-on-why-something-is-awesome)
+  - [Make it clear what the list is about](#make-it-clear-what-the-list-is-about)
+  - [Pay attention to grammar](#pay-attention-to-grammar)
+  - [Choose an appropriate license](#choose-an-appropriate-license)
+  - [Include contribution guidelines](#include-contribution-guidelines)
+  - [Stylize your list properly](#stylize-your-list-properly)
+  - [Accept other people's opinion](#accept-other-peoples-opinion)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # The awesome manifesto
 
 If you want your list to be included on `awesome`, try to only include actual awesome stuff in your list. After all, it's a curation, not a collection.
