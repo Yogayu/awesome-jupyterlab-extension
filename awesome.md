@@ -1,3 +1,6 @@
+
+# The awesome manifesto
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  
@@ -17,7 +20,6 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-# The awesome manifesto
 
 If you want your list to be included on `awesome`, try to only include actual awesome stuff in your list. After all, it's a curation, not a collection.
 

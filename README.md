@@ -1,3 +1,7 @@
+# awesome-jupyterlab-extension [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+
+😎 A curated list of awesome Jupyterlab extension projects.
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  
@@ -61,13 +65,6 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-# awesome-jupyterlab-extension [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
-
-😎 A curated list of awesome Jupyterlab extension projects.
-
-## Table of Contents
-
-[TOC]
 
 ## Version Control
 
