@@ -111,7 +111,7 @@ A universal code formatter for JupyterLab.
 
 variableinspector:Jupyterlab extension that shows currently used variables and their values. The goal is to provide a tool similar to the variable inspector in RStudio.
 
-https://github.com/lckr/jupyterlab-variableInspector/raw/master/early_demo.gif
+![jupyterlab_code_formatter](https://github.com/lckr/jupyterlab-variableInspector/raw/master/early_demo.gif)
 
 ## Write
 
