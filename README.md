@@ -113,6 +113,12 @@ variableinspector:Jupyterlab extension that shows currently used variables and t
 
 ![jupyterlab_code_formatter](https://github.com/lckr/jupyterlab-variableInspector/raw/master/early_demo.gif)
 
+### [jupyterlab-flake8](https://github.com/mlshapiro/jupyterlab-flake8)
+
+Jupyter Lab python linter for notebooks and text files using flake8
+
+![jupyterlab-flake8](https://raw.githubusercontent.com/mlshapiro/jupyterlab-flake8/master/img/example.png)
+
 ## Write
 
 ### [jupyterlab-vim](https://github.com/jwkvam/jupyterlab-vim)
