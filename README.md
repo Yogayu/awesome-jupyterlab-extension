@@ -301,6 +301,9 @@ Gruvbox theme and colorscheme for JupyterLab and Matplotlib.
 ### [JupyterLab AixViPMaP theme](https://github.com/AixViPMaP/jlab-theme)
 A JupyterLab theme extension which provides the AixViPMaP theme.
 
+### [Pitaya Smoothie](https://github.com/trallard/jupyterlab-pitaya-smoothie)
+A JupyterLab dark theme inspired by the 2018 Pantone of the year. This theme is focused on accessibility.
+
 ## How to Contribute
 
 Your contributions are always welcome! Please take a look at the [contribution guidelines](contributing.md) first.
