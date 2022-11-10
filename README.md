@@ -20,6 +20,8 @@
     - [jupyterlab-hub](#jupyterlab-hub)
   - [Formatting/Beautification](#formattingbeautification)
     - [jupyterlab_code_formatter](#jupyterlab_code_formatter)
+  - [GPU Management](#gpu-management)
+    - [genv](#genv)
   - [Write](#write)
     - [jupyterlab-vim](#jupyterlab-vim)
     - [JupyterLab LaTeX](#jupyterlab-latex)
@@ -112,6 +114,14 @@ A universal code formatter for JupyterLab.
 variableinspector:Jupyterlab extension that shows currently used variables and their values. The goal is to provide a tool similar to the variable inspector in RStudio.
 
 ![jupyterlab_code_formatter](https://github.com/lckr/jupyterlab-variableInspector/raw/master/early_demo.gif)
+
+## GPU Management
+
+### [genv](https://github.com/run-ai/jupyterlab_genv)
+A JupyterLab extension for managing GPU environments.
+
+![genv](https://github.com/run-ai/jupyterlab_genv/blob/d5afb50ea690ceec8d2d2aed52453258244c1440/resources/readme/overview.gif)
+
 
 ## Write
 
